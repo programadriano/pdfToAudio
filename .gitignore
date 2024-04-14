@@ -1,0 +1,11 @@
+output_audio.mp3
+SolutionSprint.pdf
+env/*
+new_env/*
+app.py
+main.py
+.pytest_cache/*
+*.pdf
+*.mp3
+dist/*
+build/*
